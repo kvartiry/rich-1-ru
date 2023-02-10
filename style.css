@@ -4,7 +4,6 @@ body {
     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
     background: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
     overflow-x: hidden;
-
 }
 header {
     display: flex;
@@ -287,7 +286,7 @@ img {
 }
 /* Для маленьких экранов увеличьте размер текста */
     @media only screen and (max-width: 300px) {
-    .prev, .next,.text {font-size: 18px}
+    .prev, .next,.text {font-size: 11px}
 }
 .map {
     display: flex;
@@ -420,28 +419,28 @@ img {
     margin-left: 250px;
 }
 .info-res2 {
-    margin-left: 199px;
+    margin-left: 188px;
 }
 .info-res3 {
-    margin-left: 129px;
+    margin-left: 91px;
 }
 .info-res4 {
-    margin-left: 202px;
+    margin-left: 180px;
 }
 .info-res5 {
-    margin-left: 238px;
+    margin-left: 231px;
 }
 .info-res6 {
-    margin-left: 185px;
+    margin-left: 218px;
 }
 .info-res7 {
-    margin-left: 148px;
+    margin-left: 225px;
 }
 .info-res8 {
-    margin-left: 232px;
+    margin-left: 234px;
 }
 .info-res9 {
-    margin-left: 156px;
+    margin-left: 154px;
 }
 .footer {
     display: flex;
@@ -505,14 +504,14 @@ img {
     .about-btn {
         width: 90px;
         height: 30px;
-        display: none;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: none;
     }
     .flats-btn {
         width: 90px;
         height: 30px;
-        display: none;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: none;
     }
     .nav-menu {
         margin-top: 12px;
@@ -546,16 +545,16 @@ img {
         padding-bottom: 10px;
     }
     .info-res1 {
-        margin-left: 166px;
+        margin-left: 178px;
     }
     .info-res2 {
         margin-left: 116px;
     }
     .info-res3 {
-        margin-left: 47px;
+        margin-left: 17px;
     }
     .info-res4 {
-        margin-left: 120px;
+        margin-left: 105px;
     }
     .videosecurity {
         margin-left: -88px;
@@ -567,16 +566,16 @@ img {
         margin-left: -30px;
     }
     .info-res6 {
-        margin-left: 100px;
+        margin-left: 140px;
     }
     .info-res7 {
-        margin-left: 110px;
+        margin-left: 147px;
     }
     .info-res8 {
-        margin-left: 150px;
+        margin-left: 155px;
     }
     .info-res9 {
-        margin-left: 80px;
+        margin-left: 108px;
     }
     .footer-content {
         width: 426px;
